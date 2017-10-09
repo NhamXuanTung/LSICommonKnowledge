@@ -1,0 +1,109 @@
+﻿
+
+
+https://en.wikipedia.org/wiki/Microarchitecture
+
+https://en.wikipedia.org/wiki/Latency_oriented_processor_architecture#Superscalar_execution
+
+https://en.wikipedia.org/wiki/Instruction_unit
+
+https://en.wikipedia.org/wiki/Processor_design
+
+https://opencores.org/project,theia_gpu,architecture
+
+Fundamentals of Parallel Multicore Architecture
+
+www.fullchipdesign.com
+
+https://en.wikichip.org/wiki/intel/microarchitectures/gen9.5
+
+https://en.wikichip.org/wiki/intel/microarchitectures/broadwell
+
+https://en.wikipedia.org/wiki/Pascal_(microarchitecture)
+
+https://en.wikipedia.org/wiki/Graphics_Core_Next#Geometric_processor
+
+https://www.imgtec.com/blog/a-look-at-the-powervr-graphics-architecture-tile-based-rendering/
+
+MALI GPU ARCHITECTURE
+
+GPU BLOCK DIAGRAM
+
+ADRENO GPU ARCHITECTURE
+
+https://www.anandtech.com/show/8234/arms-mali-midgard-architecture-explored
+
+https://www.anandtech.com/show/7793/imaginations-powervr-rogue-architecture-exposed
+
+Processor Microarchitecture: An Implementation Perspective (Synthesis Lectures on Computer Architecture)
+
+Digital Integrated Circuit Design Using Verilog and Systemverilog Ronald W. Mehler
+
+Multi-Core Cache Hierarchies (Synthesis Lectures on Computer Architecture)
+
+Transactional Memory, 2nd Edition (Synthesis Lectures on Computer Architecture)
+
+Multithreading Architecture (Synthesis Lectures on Computer Architecture)
+
+Chip Multiprocessor Architecture: Techniques to Improve Throughput & Latency
+
+http://www.jos.ac.cn/bdtxbcn/ch/html/20151121.htm (Processor model diagram)
+
+http://www.lowrisc.org/docs/tagged-memory-v0.1/rocket-core/
+
+http://www.qdpma.com/systemarchitecture/SystemArchitecture_2011Q3.html
+
+http://fpga.org/
+
+Great Ideas in Computer Science, Second Edition - A Gentle Introduction
+
+
+
+
+
+https://en.wikipedia.org/wiki/Graphics_processing_unit
+
+https://en.wikipedia.org/wiki/Instruction_pipelining
+
+https://en.wikibooks.org/wiki/Microprocessor_Design/Print_Version
+
+https://en.wikipedia.org/wiki/File:MIPS_Architecture_%28Pipelined%29.svg
+
+https://en.wikipedia.org/wiki/Branch_predictor
+
+https://en.wikipedia.org/wiki/Superscalar_processor
+
+https://en.wikipedia.org/wiki/RISC-V
+
+RISC-V
+
+LowRISC
+
+OpenRISC
+
+
+
+https://en.wikipedia.org/wiki/Computer_science
+
+https://en.wikipedia.org/wiki/Mathematics
+
+https://en.wikipedia.org/wiki/Information_theory
+
+https://en.wikipedia.org/wiki/Areas_of_mathematics
+
+https://en.wikipedia.org/wiki/Types_of_artificial_neural_networks
+
+TYPES OF MACHINE LEARNING
+
+https://en.wikipedia.org/wiki/Deep_learning
+
+https://en.wikipedia.org/wiki/Artificial_neural_network
+
+
+
+
+
+https://en.wikipedia.org/wiki/Joint_%28audio_engineering%29
+
+https://en.wikipedia.org/wiki/Bit_rate
+
