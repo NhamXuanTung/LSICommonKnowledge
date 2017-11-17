@@ -1,0 +1,310 @@
+﻿
+
+******************************************************
+Vertical Research Group (University of Winconsin Madison)
+
+miaowgpu.org
+
+https://github.com/VerticalResearchGroup (MIAOW OPEN GPU GITHUB)
+
+http://web.stanford.edu/class/ee486/ (EE486 - ADVANCED COMPUTER ARITHMETIC)
+******************************************************
+
+http://vswww.kaist.ac.kr/ENGLISH/old_lecture/ee878-2002/lecture/SoC_22-OCNetwork-1113.pdf (On Chip Buses/Networks for SoC) (KAIST)
+
+https://www.ieee.org/conferences_events/conferences/conferencedetails/index.html?Conf_ID=37956
+
+http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=7777315
+
+https://opencores.org/
+
+IEEE
+
+ACM
+
+IEEE/ACM International Symposium on Microarchitecture
+
+Computer Architecture Letters
+
+MIT Computer Architecture Group
+
+Vector Processor Architecture
+
+https://www.eetimes.com/document.asp?doc_id=1331737 (RISC-V Based Chip Startup Snags VC Funding)
+
+Microprocessor Report (The Linley Group)
+
+
+
+**********************************************************
+http://publications.csail.mit.edu/abstracts/abstracts07/ronny/ronny.html (MIT CSAIL Group - The Vector-Thread Architecture)
+
+http://hdl.handle.net/1721.1/96525 (A Cache Model for Modern Processors)
+
+http://publications.csail.mit.edu/(CSAIL Group Publications)
+
+http://publications.csail.mit.edu/abstracts/abstracts05/cbatten/cbatten.html (Improving The Performance of Vector Memory Systems)
+
+http://scale.eecs.berkeley.edu/papers/ (PAPERS AND THESES FROM UC BERKELEY)
+
+http://scale.eecs.berkeley.edu/global/publications.html (CSAIL Group Publications and Talks)
+
+http://people.csail.mit.edu/ronny/
+
+https://people.eecs.berkeley.edu/~yunsup/
+
+https://people.eecs.berkeley.edu/~krste/
+
+https://www2.eecs.berkeley.edu/Faculty/Homepages/asanovic.html
+
+http://cva.stanford.edu/billd_webpage_new.html
+
+http://arith.stanford.edu/papers.html
+
+http://arsenalfc.stanford.edu/kunle/publications
+
+Stanford Computer Architecture Research
+
+https://www-cs.stanford.edu/research/architecture
+
+https://en.wikipedia.org/wiki/Processor_design
+
+EE382a Advanced Processor Architecture (All Lectures)
+
+http://web.stanford.edu/class/ee382a/handouts.html
+
+CS315A/EE382B. Parallel Computer Architecture and Programming. Kunle Olukotun. Stanford University
+
+http://courses.csail.mit.edu/6.888/spring13/ (6.888 Parallel and Heterogeneous Computer Architecture - All Lectures)
+
+http://csl.stanford.edu/~christos/teaching.html (Professor Christos Kozyrakis from Stanford University)
+
+http://cva.stanford.edu/projects/imagine/ (Imagine Stream Processor Project from Professor William J. Dally)
+
+EE 382A: Parallel Processors Beyond Multicore Processing (Stanford EECS Course)
+
+EE 382C: Interconnection Networks  (Stanford EECS Course)
+
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-823-computer-system-architecture-fall-2005/lecture-notes/
+***********************************************************
+
+https://www.anandtech.com/show/9562/intels-skylake-gpu-analyzing-the-media-capabilities
+
+https://www.anandtech.com/show/6355/intels-haswell-architecture/13
+
+https://www.hotchips.org/
+
+https://en.wikipedia.org/wiki/International_Symposium_on_Computer_Architecture
+
+https://en.wikipedia.org/wiki/SIGGRAPH
+
+https://en.wikipedia.org/wiki/ACM_SIGARCH
+
+https://en.wikipedia.org/wiki/International_Solid-State_Circuits_Conference
+
+https://en.wikipedia.org/wiki/MIPS-3D
+
+https://en.wikipedia.org/wiki/File:MIPS_Architecture_(Pipelined).svg
+
+LOSSLESS COMPRESSION FUNCTION on DDR SDRAM CONTROLLER
+
+Intel IXP2800 Network Processor
+
+IEEE International Symposium on High Performance Computer Architecture
+
+International Symposium on Computer Architecture and High Performance Computing
+
+Journal of Instruction Level Parallelism
+
+Google Image Search for: Symposium on Processor Design
+
+PARWAN Processor
+
+The SMT and the CMP Architectures
+
+Google Image Search for: SMT Computer Microarchitecture.
+
+IEEE Computer Architecture Letters (Journal)
+
+https://www2.eecs.berkeley.edu/Pubs/TechRpts/ (BERKELEY UNIVERSITY ELECTRICAL ENGINEERING AND COMPUTER SCIENCE - TECH REPORTS)
+
+
+
+
+https://en.wikipedia.org/wiki/Microarchitecture
+
+https://en.wikipedia.org/wiki/Latency_oriented_processor_architecture#Superscalar_execution
+
+https://en.wikipedia.org/wiki/Instruction_unit
+
+https://en.wikipedia.org/wiki/Processor_design
+
+https://opencores.org/project,theia_gpu,architecture
+
+Fundamentals of Parallel Multicore Architecture
+
+www.fullchipdesign.com
+
+https://en.wikichip.org/wiki/intel/microarchitectures/gen9.5
+
+https://en.wikichip.org/wiki/intel/microarchitectures/broadwell
+
+https://en.wikipedia.org/wiki/Pascal_(microarchitecture)
+
+https://en.wikipedia.org/wiki/Graphics_Core_Next#Geometric_processor
+
+https://www.imgtec.com/blog/a-look-at-the-powervr-graphics-architecture-tile-based-rendering/
+
+MALI GPU ARCHITECTURE
+
+GPU BLOCK DIAGRAM
+
+ADRENO GPU ARCHITECTURE
+
+https://www.anandtech.com/show/8234/arms-mali-midgard-architecture-explored
+
+https://www.anandtech.com/show/7793/imaginations-powervr-rogue-architecture-exposed
+
+Processor Microarchitecture: An Implementation Perspective (Synthesis Lectures on Computer Architecture)
+
+Digital Integrated Circuit Design Using Verilog and Systemverilog Ronald W. Mehler
+
+Multi-Core Cache Hierarchies (Synthesis Lectures on Computer Architecture)
+
+Transactional Memory, 2nd Edition (Synthesis Lectures on Computer Architecture)
+
+Multithreading Architecture (Synthesis Lectures on Computer Architecture)
+
+Chip Multiprocessor Architecture: Techniques to Improve Throughput & Latency
+
+http://www.jos.ac.cn/bdtxbcn/ch/html/20151121.htm (Processor model diagram)
+
+http://www.lowrisc.org/docs/tagged-memory-v0.1/rocket-core/
+
+http://www.qdpma.com/systemarchitecture/SystemArchitecture_2011Q3.html
+
+http://fpga.org/
+
+Great Ideas in Computer Science, Second Edition - A Gentle Introduction
+
+https://en.wikipedia.org/wiki/Digital_signal_processor
+
+High Efficiency Video Coding (HEVC) - Algorithms and Architectures
+
+Video Coding Standards: Avs China, H.264/MPEG-4 Part 10, Hevc, Vp6, Dirac and VC-1
+
+High Efficiency Video Coding (HEVC) - Coding Tools and Specification
+
+Secure System Design and Trustable Computing.
+
+Algorithm-Architecture Matching for Signal and Image Processing
+
+Image and Video Compression Standards: Algorithms and Architectures
+
+https://www.intechopen.com/books/advanced-video-coding-for-next-generation-multimedia-services/algorithm-and-vlsi-architecture-design-for-mpeg-like-high-definition-video-coding-avs-video-coding-f
+
+https://www.researchgate.net/figure/264273447_fig1_Figure-1-Block-Diagram-of-HEVC-2-doi101371journalpone0105613g001
+
+https://www.researchgate.net/figure/222823220_fig1_Fig-1-Block-diagram-of-AVS-video-encoder
+
+The H.264 Advanced Video Compression Standard
+
+Algorithms, Complexity Analysis and VLSI Architectures for MPEG-4 Motion Estimation
+
+Video Codec Design - Developing Image and Video Compression System
+
+Real-Time Video Compression. Techniques and Algorithms
+
+Compression and Coding Algorithms
+
+https://www.intechopen.com/books/recent-advances-in-image-and-video-coding/implementation-of-video-compression-standards-in-digital-television
+
+https://www.slideshare.net/abshinde/soc-application-studies-image-compression
+
+https://www.rroij.com/open-access/video-compression-with-wavelet-transformusing-wbm-method-and-spiht-algorithm.php?aid=43361
+
+https://asp-eurasipjournals.springeropen.com/articles/10.1186/1687-6180-2014-108
+
+https://www.researchgate.net/publication/236860135_A_3D-DCT_real-time_video_compression_system_for_low_complexity_single-chip_VLSI_implementation
+
+https://asp-eurasipjournals.springeropen.com/articles/10.1186/s13634-015-0284-0
+
+https://www.design-reuse.com/articles/33379/4k-10-bits-hevc-encoder-development.html
+
+https://www.semanticscholar.org/paper/Unified-Parameter-Decoder-Architecture-for-H-265-H-Wang-Zhou/260d65d033723a2ff21fa6781a55956f1ce8a05b
+
+https://www.semanticscholar.org/paper/An-implemented-architecture-of-deblocking-filter-f-Sheng-Gao/6e564d77561ef9b7d06994b01db3efc691ab6db6
+
+https://jes-eurasipjournals.springeropen.com/articles/10.1186/s13639-016-0047-5
+
+https://www.planetanalog.com/author.asp?section_id=385&doc_id=560770
+
+https://www.design-reuse.com/articles/28847/unified-c-programmable-asip-architecture-for-multi-standard-viterbi-turbo-and-ldpc-decoding.html
+
+https://etrij.etri.re.kr/etrij/journal/article/pubreader.do?volume=37&issue=4&page=772&fileId=SPF-1438826890692
+
+https://www.intechopen.com/books/image-processing/fpga-based-acceleration-for-image-processing-applications
+
+http://gram.eng.uci.edu/morphosys/docs/nato_paper.html
+
+https://www.design-reuse.com/articles/18863/numerical-algorithms-real-time-systems.html
+
+https://www.slideshare.net/embeddedvision/energyefficient-hardware-for-embedded-vision-and-deep-convolutional-neural-networks-a-presentation-from-mit
+
+https://www.researchgate.net/figure/264937595_fig1_Fig-1-Proposed-vision-chip-architecture
+
+http://www.rle.mit.edu/eems/research/
+
+http://www-mtl.mit.edu/wpmu/ar2013/4k-ultra-hd-video-decoder-for-h-265hevc/
+
+
+
+
+
+
+https://en.wikipedia.org/wiki/Graphics_processing_unit
+
+https://en.wikipedia.org/wiki/Instruction_pipelining
+
+https://en.wikibooks.org/wiki/Microprocessor_Design/Print_Version
+
+https://en.wikipedia.org/wiki/File:MIPS_Architecture_%28Pipelined%29.svg
+
+https://en.wikipedia.org/wiki/Branch_predictor
+
+https://en.wikipedia.org/wiki/Superscalar_processor
+
+https://en.wikipedia.org/wiki/RISC-V
+
+RISC-V
+
+LowRISC
+
+OpenRISC
+
+
+
+https://en.wikipedia.org/wiki/Computer_science
+
+https://en.wikipedia.org/wiki/Mathematics
+
+https://en.wikipedia.org/wiki/Information_theory
+
+https://en.wikipedia.org/wiki/Areas_of_mathematics
+
+https://en.wikipedia.org/wiki/Types_of_artificial_neural_networks
+
+TYPES OF MACHINE LEARNING
+
+https://en.wikipedia.org/wiki/Deep_learning
+
+https://en.wikipedia.org/wiki/Artificial_neural_network
+
+
+
+
+
+https://en.wikipedia.org/wiki/Joint_%28audio_engineering%29
+
+https://en.wikipedia.org/wiki/Bit_rate
+
