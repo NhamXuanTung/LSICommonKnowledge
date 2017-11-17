@@ -1,0 +1,261 @@
+
+
+Professor Krste Asanovic
+
+https://people.eecs.berkeley.edu/~krste/
+
+https://www2.eecs.berkeley.edu/Faculty/Homepages/asanovic.html
+
+Professor John Kubiatowicz
+
+https://people.eecs.berkeley.edu/~kubitron/courses/index.html
+
+http://inst.eecs.berkeley.edu/~cs152/fa16/
+
+Professor Randy H. Katz
+
+https://www2.eecs.berkeley.edu/Faculty/Homepages/katz.html
+
+http://inst.eecs.berkeley.edu/~cs294-143/fa17/
+
+http://inst.eecs.berkeley.edu/~cs61c/fa17/
+
+Dr. Lisa Wu
+
+https://people.eecs.berkeley.edu/~lisakwu/
+
+http://inst.eecs.berkeley.edu/~cs252/sp17/
+
+Professor John Wawrzynek
+
+http://people.eecs.berkeley.edu/~johnw/
+
+UC Berkeley EECS Faculty People
+
+https://eecs.berkeley.edu/people/faculty
+
+Professor Emeritus - David A. Patterson
+
+https://www2.eecs.berkeley.edu/Faculty/Homepages/patterson.html
+
+Professor Emeritus - John L. Hennessy
+
+https://web.stanford.edu/~hennessy/
+
+Stanford EE-CS Courses
+
+https://ee.stanford.edu/eecs
+
+MIT Course: Computer System Architecture
+
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-823-computer-system-architecture-fall-2005/lecture-notes/
+
+MIT EECS Faculty & Advisors
+
+http://www.eecs.mit.edu/people/faculty-advisors
+
+Stanford BRAINS in SILICON Project
+
+http://web.stanford.edu/group/brainsinsilicon/
+
+Associate Professor Daniel Sanchez from MIT EECS
+
+http://people.csail.mit.edu/sanchez/
+
+Joel Emer - Professor of the Practice, MIT EECS
+
+http://people.csail.mit.edu/emer/
+
+Arvind - Johnson Professor, MIT EECS
+
+http://csg.csail.mit.edu/Users/arvind/
+
+MIT 6.283 Course: Computer System Architecture - Spring 2017
+
+http://csg.csail.mit.edu/6.823/lecnotes.html
+
+MIT 6.175 Course: Constructive Computer Architecture (Fall 2017)
+
+http://csg.csail.mit.edu/6.175/
+
+Srini Devadas - Edwin Sibley Webster Professor of MIT EECS
+
+https://people.csail.mit.edu/devadas/
+
+David Wentzlaff - Assistant Professor at Princeton University in the Electrical Engineering Department
+
+http://ee.princeton.edu/people/faculty/david-wentzlaff
+
+http://people.csail.mit.edu/wentzlaf/
+
+https://www.princeton.edu/~wentzlaf/
+
+The University of Texas at Austin - EE Department
+
+www.ece.utexas.edu
+
+Professor Anant Agarwal - MIT EECS
+
+http://people.csail.mit.edu/agarwal/
+
+MIT Computer Architecture Group (CAG)
+
+http://groups.csail.mit.edu/cag/
+
+Raw Project from MIT CAG 
+
+http://groups.csail.mit.edu/cag/raw/documents/
+
+MIT 6.911 Course - Architectures Anonymous
+
+http://www.ai.mit.edu/projects/aries/course/
+
+Professor James Hoe - Carnegie Mellon University
+
+http://users.ece.cmu.edu/~jhoe/
+
+Stanford Computer Architecture and Arithmetic Group 
+
+http://arith.stanford.edu/
+
+Dr. Mohamed Zahran from New York University
+
+http://mzahran.com/
+
+Dr. George Michelogiannakis
+
+http://michelogiannakis.com/
+
+Paul and Stacy Jacobs Distinguished Professor of Engineering
+
+https://people.eecs.berkeley.edu/~jfc/
+
+Dr. Ashu Rege from nVidia
+
+https://people.eecs.berkeley.edu/~jfc/rege/
+
+http://ashutalkongpucomputing.blogspot.com/
+
+http://cseweb.ucsd.edu/~ravir/6160/papers/shadow_mapping.pdf (Hardware Shadow Mapping)
+
+15-462 Computer Graphics I Course from Carnegie Mellon University
+
+https://www.cs.cmu.edu/~fp/courses/graphics/index.html
+
+Professor Michael J. Flynn - Stanford University - Computer Architecture and Arithmetic Group 
+
+http://arith.stanford.edu/~flynn/
+
+https://web.stanford.edu/class/ee486/ (EE486 - Advanced Computer Arithmetic)
+
+Professor Kristofer Pister - UC Berkeley EECS
+
+https://www2.eecs.berkeley.edu/Faculty/Homepages/pister.html
+
+UC Berkeley EECS Research Area - Integrated Circuits (INC)
+
+https://www2.eecs.berkeley.edu/Research/Areas/INC/
+
+Professor Elad Alon - UC Berkeley EECS 
+
+https://www2.eecs.berkeley.edu/Faculty/Homepages/elad.html
+
+UC Berkeley EECS Courses
+
+http://inst.eecs.berkeley.edu/classes-eecs.html
+
+
+
+
+
+
+
+
+//#########################################################################################//
+
+MIT COURSES
+
+MIT Computer Graphics Group Courses
+
+http://graphics.csail.mit.edu/about
+
+Course 6.837 Computer Graphics (2011)
+
+http://courses.csail.mit.edu/6.837/2011/
+
+MIT EECS OpenCourseWare 
+
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/
+
+Stellar - MIT Course Management System
+
+https://stellar.mit.edu/courseguide/
+
+Professor Vivienne Sze - MIT EECS Department - Energy-Efficient Multimedia Systems Group
+
+http://www.rle.mit.edu/people/directory/vivienne-sze/
+
+6.S082/6.888 Hardware Architecture for Deep Learning (Prof. Vivienne Sze)
+
+http://www.eecs.mit.edu/academics-admissions/subject-updates-fall-2017/6s0826888
+
+LSP Group by Prof. Li-Shiuan Peh 
+
+http://projects.csail.mit.edu/cgi-bin/wiki/view/LSPgroup/WebHome
+
+6.827 Multithreaded Parallelism: Languages and Compilers (Fall-2006) 
+
+http://csg.csail.mit.edu/6.827/
+
+6.S195 - Constructive Computer Architecture
+
+http://csg.csail.mit.edu/6.S195/
+
+6.S078 - Computer Architecture: A Constructive Approach
+
+http://csg.csail.mit.edu/6.S078/6_S078_2012_www/index.html
+
+MIT EECS Department - Computation Structures Group
+
+http://groups.csail.mit.edu/cag/
+
+6.375 Complex Digital Systems
+
+http://csg.csail.mit.edu/6.375/6_375_2016_www/index.html
+
+MIT EECS Department - Computer Architecture Group
+
+http://groups.csail.mit.edu/cag/
+
+MIT Computer Science & Artificial Intelligence Laboratory
+
+http://www.csail.mit.edu/research_groups
+
+6.838 Advanced Topics in Computer Graphics: Shape Analysis
+
+http://www.eecs.mit.edu/academics-admissions/academic-information/subject-updates-spring-2017/6838
+
+Spring 2017 updated Courses
+
+http://www.eecs.mit.edu/academics-admissions/academic-information/subject-updates-spring-2017
+
+MIT EECS Department - Terahertz Integrated Electronics Group
+
+http://www-mtl.mit.edu/wpmu/han/teaching/
+
+Tutorial on Hardware Architectures for Deep Neural Networks
+
+http://eyeriss.mit.edu/tutorial.html
+
+http://www.rle.mit.edu/eems/wp-content/uploads/2016/11/Tutorial-on-DNN-All-Parts.pdf
+
+http://www.rle.mit.edu/eems/wp-content/uploads/2017/06/Tutorial-on-DNN-1-of-9-Background-of-DNNs.pdf
+
+6.374 Analysis and Design of Digital Integrated Circuits
+
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-374-analysis-and-design-of-digital-integrated-circuits-fall-2003/index.htm
+
+MIT Center for Integrated Circuits and Systems 
+
+https://cics.mit.edu/
+//##################################################################################################//

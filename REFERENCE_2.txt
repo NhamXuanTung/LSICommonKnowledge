@@ -1,0 +1,58 @@
+﻿
+
+
+https://en.wikipedia.org/wiki/Flowchart
+
+https://en.wikipedia.org/wiki/Makefile
+
+http://slideplayer.com/slide/5124984/
+
+https://en.wikipedia.org/wiki/Portal:Computer_science
+
+https://en.wikipedia.org/wiki/System_on_a_chip
+
+https://en.wikipedia.org/wiki/High-level_synthesis
+
+H264 Encoder/Decoder Block Hardware Implementation
+
+DMA Module (Direct Memory Access)
+
+https://en.wikipedia.org/wiki/Three-state_logic
+
+https://stackoverflow.com/questions/6401586/intel-x86-opcode-reference (x86 Opcode Reference)
+
+http://www.accellera.org/downloads/standards/uvm
+
+https://www.eetimes.com/document.asp?doc_id=1332527 (19 Views of ARM TechCon 2017)
+
+https://www.eetimes.com/document.asp?doc_id=1332500 (IBM Demos In-Memory Massively Parallel Computing)
+
+https://www.eetimes.com/document.asp?doc_id=1332501 (Bitcoin ASIC Maker Bets on AI)
+
+https://www.eetimes.com/document.asp?doc_id=1332504 (ARM Unveils New AI Group)
+
+
+
+
+
+
+MEMS Microphone Market
+
+
+
+
+
+
+
+LE CASTELLA CAKE
+
+
+
+
+2391 FILES, 374 FOLDERS
+
+3322 FILES, 943 FOLDERS
+
+13599 FILES, 2876 FOLDERS 3.08 GB, 3.11 GB
+
+33,611 FILES, 6949 FOLDERS, 12.5 GB
