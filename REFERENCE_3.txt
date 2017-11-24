@@ -98,6 +98,10 @@ Professor Anant Agarwal - MIT EECS
 
 http://people.csail.mit.edu/agarwal/
 
+6.846 Parallel Computing (H) Spring 2010 by Professor Anant Agarwal
+
+http://courses.csail.mit.edu/6.846/
+
 MIT Computer Architecture Group (CAG)
 
 http://groups.csail.mit.edu/cag/

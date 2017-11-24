@@ -1,0 +1,135 @@
+
+STANFORD CS COURSE
+
+https://cs.stanford.edu/academics/courses
+
+EECS COURSE
+
+https://ee.stanford.edu/eecs
+
+EE UNDERGRADUATE COURSE
+
+https://ee.stanford.edu/admissions/bs/Ug-courses
+
+UC BERKELEY EECS COURSE
+
+https://inst.eecs.berkeley.edu/classes-eecs.html
+
+UNIVERSITY OF MICHIGAN EECS 373: Design of Microprocessor-Based Systems 
+
+http://web.eecs.umich.edu/~prabal/teaching/eecs373-f14/
+
+UNIVERSITY OF MICHIGAN: Introduction to Embedded Design
+
+https://www.eecs.umich.edu/courses/eecs373/
+
+STANFORD COURSE SEARCH FOR OPEN OR NOT
+
+http://scpd.stanford.edu/search/publicCourseAdvancedSearch.do?method=doPaginatedSearch&showInternal=false&cspIndex=true&isPageDisplayed=true&courseSearch.courseDescriptionKeyword=&courseSearch.courseCategoryStringArray=0&courseSearch.sectionSemesterIdString=&courseSearch.programAreaStringArray=11217&courseSearch.programAreaStringArray=1060321&courseSearch.programAreaStringArray=11218&courseSearch.programAreaStringArray=11219&courseSearch.programAreaStringArray=1150581&courseSearch.programAreaStringArray=1060322&courseSearch.programAreaStringArray=11220&courseSearch.programAreaStringArray=1060323&courseSearch.programAreaStringArray=11221&courseSearch.programAreaStringArray=36469061&courseSearch.programAreaStringArray=36469059&courseSearch.programAreaStringArray=5447799&courseSearch.programAreaStringArray=11223&courseSearch.programAreaStringArray=11224&courseSearch.programAreaStringArray=36469063&courseSearch.programAreaStringArray=11057104&courseSearch.programAreaStringArray=36469060&courseSearch.programAreaStringArray=11226&courseSearch.programAreaStringArray=37475851&courseSearch.programAreaStringArray=14746798&courseSearch.programAreaStringArray=11227&courseSearch.programAreaStringArray=11228&courseSearch.programAreaStringArray=11229&courseSearch.programAreaStringArray=11230&courseSearch.programAreaStringArray=37475854&courseSearch.programAreaStringArray=11232&courseSearch.programAreaStringArray=36469062&courseSearch.programAreaStringArray=11233&courseSearch.programAreaStringArray=37475855&courseSearch.programAreaStringArray=3586826&courseSearch.deliveryMethodString=&courseSearch.sectionInstructorName=&courseSearch.sectionAccreditingAssociationStringArray=0&courseSearch.sectionDayOfWeekStringArray=0&courseSearch.sectionStartTimeStringArray=0&courseSearch.sectionStartMonthStringArray=0&courseSearch.filterString=all&buttonSearch=Search
+
+MIT 6.101 Introductory Analog Electronics Laboratory
+
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-101-introductory-analog-electronics-laboratory-spring-2007/study-materials/
+
+MIT 6.111 Introductory Digital Systems Laboratory
+
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-111-introductory-digital-systems-laboratory-spring-2006/lecture-notes/
+
+--> Fall 2017
+
+http://web.mit.edu/6.111/www/f2017/index.html
+
+--> Spring 2007
+
+http://web.mit.edu/6.111/www/s2007/schedule.html
+
+PROFESSOR ANANTHA CHANDRAKASAN - MIT EECS
+
+http://www-mtl.mit.edu/~anantha/index.html
+
+PROFESSOR JAN M. RABAEY - UC BERKELEY EECS
+
+http://bwrcs.eecs.berkeley.edu/faculty/jan/JansSite/Courses.html
+
+EE141: Digital Integrated Circuits Spring 2009 - UC BERKELEY EECS 
+
+http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee141_s09/
+
+EE241: Advanced Digital Integrated Circuits Spring 2013 - UC BERKELEY EECS
+
+http://bwrcs.eecs.berkeley.edu/Classes/icdesign/ee241_s13/
+
+EE225C: VLSI Signal Processing 2000 - UC BERKELEY EECS
+
+http://bwrcs.eecs.berkeley.edu/Classes/EE225C/2000%20225C/Lectures/lectures.htm
+
+STANFORD PERVASIVE PARALLELISM Laboratory
+
+https://ppl.stanford.edu/
+
+CS150 Components and Design Techniques for Digital Systems - UC BERKELEY EECS
+
+http://www-inst.eecs.berkeley.edu/~cs150/archives.html
+
+CS250 VLSI Systems Design - UC BERKELEY EECS
+
+http://www-inst.eecs.berkeley.edu/~cs250/archives.html
+
+--> Spring 2017
+
+http://www-inst.eecs.berkeley.edu/~cs250/sp17/
+
+Computer Science 294-48: Hardware Design Patterns Fall 2009 - UC BERKELEY EECS
+
+http://www-inst.eecs.berkeley.edu/~cs294-48/fa09/
+
+PROFESSOR DAVID TSE - STANFORD EECS
+
+https://web.stanford.edu/~dntse/
+
+PROFESSOR PAT HANRAHAN - STANFORD EECS (COMPUTER GRAPHICS)
+
+http://graphics.stanford.edu/~hanrahan/
+
+CS 248 - Introduction to Computer Graphics  - STANFORD EECS
+
+http://graphics.stanford.edu/courses/cs248-07/
+
+STANFORD UNIVERSITY COMPUTER SYSTEMS Laboratory
+
+http://csl.stanford.edu/factitles.html
+
+MIT EECS DEPARTMENT - GEOMETRIC DATA PROCESSING GROUP - Courses
+
+http://groups.csail.mit.edu/gdpgroup/courses.html
+
+MIT EECS DEPARTMENT - THEORY OF COMPUTATION GROUP
+
+https://toc.csail.mit.edu
+
+MIT EECS COURSE CATALOG
+
+http://student.mit.edu/catalog/m6c.html
+
+MIT COMPUTER SCIENCE & ARTIFICIAL INTELLIGENCE Laboratory
+
+http://www.csail.mit.edu/
+
+STANFORD EE183 COURSE: ADVANCED LOGIC DESIGN Laboratory
+
+https://web.stanford.edu/class/ee183/index.shtml
+
+STANFORD EE 121: Digital Design Laboratory 
+
+https://web.stanford.edu/class/ee121/
+
+ASSISTANT PROFESSOR KAYVON FATAHALIAN - STANFORD EECS (COMPUTER GRAPHICS GROUP)
+
+http://graphics.stanford.edu/~kayvonf/
+
+http://www.cs.cmu.edu/afs/cs.cmu.edu/academic/class/15869-f11/www/ (Course from Prof. Kayvon at CMU : CMU 15-869 Graphics and Imaging Architectures)
+
+VLSI Digital Signal Processing Systems: Design and Implementation (BOOK)
+
+http://www.wiley.com/WileyCDA/WileyTitle/productCd-0471241865.html
+
